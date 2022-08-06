@@ -1,0 +1,46 @@
+ body{
+   background: url('./pexels-snapwire-6992.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
+
+ #container {
+  position: relative;
+  top: 150px;
+    align-items: center;
+    background-color: forestgreen;
+    border: 4px solid black;
+    height: 275px;
+    width: 550px;
+    margin: 0 auto;
+    text-align: center;
+  
+ }
+
+ #btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+ }
+
+ #output{
+   margin: 25px auto;
+   color: black;
+   font-size: 20px;
+   background-color: white;
+   height: 70px;
+   text-align: center;
+   width: 500px;
+   border: 1px solid black;
+   
+ }
+/* .main {
+  position: relative;
+  top: 150px;
+} */
